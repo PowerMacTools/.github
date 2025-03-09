@@ -1,10 +1,10 @@
-# PowerMacTools
+<div align="center">
+
+<h2>PowerMacTools</h2>
 
 Project that provides tools for powering up your 30 year old Mac.
 
-## Downloads
-
-<div align="center">
+<h2>Downloads</h2>
 <table>
     <thead>
         <tr>
